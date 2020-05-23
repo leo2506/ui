@@ -1,8 +1,11 @@
 <resources>
-    <string name ="app_name">ViCabulary</string>
-    <string name ="subtitles">subtitles</string>
+    <string name="app_name">ViCabulary</string>
+    <string name="subtitles">subtitles</string>
     <string name="title_select">Select</string>
     <string name="title_playback">Playback</string>
     <string name="title_vocabulary">Notebook</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>
